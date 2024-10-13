@@ -1,5 +1,5 @@
 # Comparison with Altimetric Data
-This repository contains MATLAB scripts for comparing altimetric river water level data with CaMa-Flood model outputs (sfcelv: Water Surface Elevation, and rivout: Discharge) for the Niger and Ganges-Brahmaputra river basins.
+Contains MATLAB scripts for comparing altimetric river water level data with CaMa-Flood model outputs (sfcelv: Water Surface Elevation, and rivout: Discharge) for the Niger and Ganges-Brahmaputra river basins.
 
 The comparison is performed in two ways:
 
@@ -10,4 +10,4 @@ The CaMa-Flood output files required for running this script is stored of google
 https://drive.google.com/drive/folders/1gnALukgkgDRnXFPZQBUvw0sqKTq2AO-D?usp=sharing
 
 # Runoff Regionalization
-This section contains MATLAB scripts for regionalizing global runoff data. The script trims global NetCDF runoff files on the Niger and Ganges-Brahmaputra basins and export the results as new NetCDF files.
+Contains MATLAB scripts for regionalizing global runoff data. The script trims global NetCDF runoff files on the Niger and Ganges-Brahmaputra basins and export the results as new NetCDF files.
