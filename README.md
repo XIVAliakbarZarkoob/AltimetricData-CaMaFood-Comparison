@@ -23,7 +23,7 @@ CLMS Altimetry data: './CLMS/REGION Basin/'
 WSE CaMa-Flood Outputs: './REGION_03min_W3RA_AAU/WSE/'                                                                      
 Q CaMa-Flood Outputs: './REGION_03min_W3RA_AAU/Q/'
 
-V10: opens a window for each data source to select desired data. 
+V10: opens a window for each data source to select desired data. a data source can be ignored by closing it's window without selecting any data.
 
 
 
