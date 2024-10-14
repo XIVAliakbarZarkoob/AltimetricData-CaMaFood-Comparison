@@ -16,7 +16,7 @@ https://drive.google.com/drive/folders/1gnALukgkgDRnXFPZQBUvw0sqKTq2AO-D?usp=sha
 
 V09: user can specify path to each data in the "Specify Paths" section
 
-default paths are mentioned below where REGION is either Niger or Ganges-Brahmaputra:                                                                     
+default paths are mentioned below, where REGION is either Niger or Ganges-Brahmaputra:                                                                     
 Dahiti Altimetry Data: './Dahiti/REGION Basin/'                                                                     
 Hydroweb Altimetry Data: './Hydroweb/REGION Basin/'                                                                      
 CLMS Altimetry data: './CLMS/REGION Basin/'                                                                      
